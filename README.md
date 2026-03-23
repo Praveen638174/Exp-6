@@ -1,10 +1,50 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
+## Name - Praveen Raj G
+## Reg no - 212224040245
+
+
 # AIM:
+To develop an Online Examination Registration System that automates and manages the process of student exam registration efficiently.
 
 # SRS (Procedure):
+1.In use case diagram it consists of Actors, use cases, Association.
 
-# DIAGRAMS:
-(upload all 6 diagrams)
+2.Activity diagram it consists action, Initial and final, Control flow.
+
+3.Identify actors and usecases from the system.
+
+4.Define the classes and relationships in the system.
+
+5.Illustrate the flow of actions for a specific task.
+
+6.Model interactions between objects for a process.
+
+# DIAGRAMS :
+## USE CASE DIAGRAM :
+<img width="982" height="827" alt="Usecase6p" src="https://github.com/user-attachments/assets/08efd775-fbb8-4a3d-98ff-a7a2d06fc630" />
+
+
+## CLASS DIAGRAM :
+<img width="1227" height="778" alt="Class6p" src="https://github.com/user-attachments/assets/4769ef60-5605-4c79-b298-5996191a75da" />
+
+
+## SEQUENCE DIAGRAM :
+<img width="1071" height="736" alt="Sequence6p" src="https://github.com/user-attachments/assets/1419d008-a86c-46b7-8738-8ee500ab1937" />
+
+
+## PACKAGE DIAGRAM :
+<img width="1115" height="702" alt="Package6p" src="https://github.com/user-attachments/assets/95adcea9-c472-4220-863c-fd7a3e4220f6" />
+
+
+## ACTIVITY DIAGRAM :
+<img width="720" height="847" alt="Activity6p" src="https://github.com/user-attachments/assets/735f96fc-1000-464d-8132-65a24bf70c9c" />
+
+
+
+## COMMUNICATOIN DIAGRAM :
+<img width="1211" height="747" alt="Communication6p" src="https://github.com/user-attachments/assets/b0498a33-c604-4300-8f25-66ffa7bd5390" />
+
 
 # RESULT:
+The Online Examination Registration System successfully streamlines and automates the exam registration process for students and administrators.
